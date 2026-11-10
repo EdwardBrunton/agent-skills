@@ -1,0 +1,13 @@
+name: agent-skills
+version: 0.1.0
+description: Edward's agent skills.
+author: Edward Brunton
+
+targets:
+  - copilot
+
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
