@@ -1,6 +1,6 @@
 name: agent-skills
 version: 0.1.0
-description: Edward's agent skills.
+description: Agent skills for security review and day-to-day engineering work.
 author: Edward Brunton
 
 targets:
